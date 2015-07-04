@@ -13,6 +13,8 @@ import javafx.scene.shape.StrokeLineCap;
 import javafx.scene.text.Font;
 import javafx.scene.text.Text;
 
+
+aaaaaaaaaassss
 /**
  * Created by davidperrey on 20/12/2014.
  */
